@@ -1,5 +1,5 @@
 # Cyber-Security-Repository
-Resources Reguarding Cyber Security from various sources consolodated. This is intended for personal use but may be useful to to others. 
+Resources Reguarding Cyber Security from various sources consolodated into one place. This is intended for personal use but may be useful to to others. 
 
 
 
