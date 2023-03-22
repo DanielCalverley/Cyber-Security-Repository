@@ -53,16 +53,3 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 * [Practice CTF List](http://captf.com/practice-ctf/) – CTF practice sites and tools
 * [TeachCyber](https://teachcyber.tk/) – a list of free online resources
 * [WeChall](https://www.wechall.net/active_sites) – a list of web challenges and practice sites
-
-## Do you want to contribute or share your comments?
-
-We highly appreciate new contributions, suggestions for improvement, or any other comments.  
-Please email [Valdemar Švábenský](https://www.muni.cz/en/people/395868-valdemar-svabensky) at *valdemar@mail.muni.cz*.
-
-## Authors
-
-This list was compiled and is maintained by the members of the [CSIRT-MU team](https://csirt.muni.cz/) at the [Masaryk University](https://muni.cz).
-
-## Licence
-
-This work is licensed under a [CC0 (Public Domain) License](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to use it in any way.
