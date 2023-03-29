@@ -56,11 +56,6 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 
 
 ## Tool List
-# This is a simple list of all tools that can be related to hacking, there are windows and linux tools
-
-This repo was created by [Geluchat](https://github.com/Geluchat) and [laxa](https://github.com/Laxa)
-The overall idea is to find quickly a tool that could suit your need or help you in any way related to computer hacking.
-This list is supposed to be as exhaustive as possible.
 
 All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short description
 
